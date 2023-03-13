@@ -1,9 +1,22 @@
 body{
     background-image: url(hatter55.jpg);
     background-size:cover ;
+    padding: 1%;
     
 }
 h1{
     color:white;
+    text-decoration: underline;
+    font-family: Bradley Hand;
 
+}
+img{
+    width: 200px;
+}
+li{
+    font-size: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
 }
