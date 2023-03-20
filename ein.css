@@ -18,5 +18,18 @@ p{
 }
 
 #einkep{
-    width: 500px;
+    width: 400px;
 }
+
+#video{
+    position:fixed;
+    left:440px;
+    top:395px;
+    width:500px;
+}
+
+table {
+    border: 1px solid white;
+    position:fixed;
+    top:800px;
+  }
