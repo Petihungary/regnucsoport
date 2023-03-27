@@ -10,3 +10,11 @@ h1{
     font-family: Bradley Hand;
 
 }
+ul,li{
+    font-size: 17px;
+}
+h3{
+    font-size: 17px;
+    margin-left: 1px;
+    text-decoration:underline ;
+}
