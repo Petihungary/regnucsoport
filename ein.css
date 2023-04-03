@@ -31,5 +31,12 @@ p{
 table{
     border: 1px solid white;
     position:fixed;
-    top:800px;
+    top:725px;
+    left:190px;
+}
+
+#vissza{
+    position:fixed;
+    left:25px;
+    top:850px;
 }
